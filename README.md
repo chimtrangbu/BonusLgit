@@ -1,5 +1,5 @@
 # Core Project
-https://github.com/chimtrangbu/lgit/blob/master/README.md
+https://github.com/chimtrangbu/lgit/
 
 # BONUS: branches
 Notions: branching and merging
